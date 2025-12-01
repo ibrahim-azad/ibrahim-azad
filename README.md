@@ -47,6 +47,15 @@ I'm a 20-year-old CS student at FAST Islamabad with a focus on AI and GPU comput
 
 ## Featured Projects
 
+**Data Integrity Verification System** (Merkle Tree Implementation)
+- Cryptographic tamper detection system using Merkle Trees for large-scale datasets
+- Processes and verifies 1,000,000+ Amazon product reviews using SHA-256 hashing
+- O(log n) authentication proofs for efficient record verification
+- Real-world application of blockchain technology (same structure used in Bitcoin, Git, IPFS)
+- Comprehensive CLI with integrity checking, tampering detection, and performance benchmarking
+- Technologies: Python, Cryptography, Hash Trees, Algorithm Optimization
+- [View Repository](https://github.com/ibrahim-azad/data-integrity-merkle-tree)
+
 **Parallelized Convolution Accelerator** (High-Performance Computing)
 - Optimized convolution operations using GPU-accelerated OpenCL kernels
 - Achieved significant performance gains through profiling and parallelizing critical hotspots
@@ -67,26 +76,24 @@ I'm a 20-year-old CS student at FAST Islamabad with a focus on AI and GPU comput
 - Implemented collision handling, sprite movement, and scoring at register level
 - Deep understanding of CPU-level operations
 
-**GameBoy Emulator with 3 Mini Games** (C++ & SFML)
-- Custom handheld console simulation
-- Multiple playable games with game management system
-
 ---
-
-## Education
-
-**FAST University, Islamabad** (2023 - Present)
-- Core Courses: Programming Fundamentals, OOP, Data Structures, Discrete Structures, COAL
-- Current: High-Performance Computing, Computer Networks, Theory of Automata, Software Design & Analysis, Algorithms
-
-
 
 ## Currently Working On
 
 - Computer Networks Project
 - Software Design & Architecture
 - Exploring advanced GPU optimization techniques
+- Building portfolio of production-ready projects
 
 ---
+
+## Open to Opportunities
+
+I'm available for freelance work and collaboration on interesting projects, especially in:
+- High-performance computing and optimization
+- Game development
+- System programming
+- AI/ML implementation projects
+- Cryptographic systems and data integrity
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
