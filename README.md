@@ -80,14 +80,6 @@ I'm a 20-year-old CS student at FAST Islamabad with a focus on AI and GPU comput
 - Current: High-Performance Computing, Computer Networks, Theory of Automata, Software Design & Analysis, Algorithms
 
 
-## Leadership & Achievements
-
-- Represented school at national-level football and provincial-level cricket & basketball
-- 2nd Best Debater at National Competition (Lawrence College)
-- Best Debater at APS Westridge
-- Known for persistence, confidence, and leading by example
-
----
 
 ## Currently Working On
 
